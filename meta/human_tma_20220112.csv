@@ -1,0 +1,91 @@
+,map,TMA_ID,Unknown,age,sex,Organ,Diagnosis,pTNM
+0,1,09D13929,A4,69,Male,Liver,Intrahepatic cholangiocarcinoma,"pT1, pNx, pMx, R0"
+1,2,09D13929,A4,69,Male,Liver,Intrahepatic cholangiocarcinoma,"pT1, pNx, pMx, R0"
+2,3,09D15269,D5,64,Male,Liver ,Intrahepatic cholangiocarcinoma,"T4, N1, Mx, R1"
+3,4,09D15269,D5,64,Male,Liver ,Intrahepatic cholangiocarcinoma,"T4, N1, Mx, R1"
+4,5,09D16005,B1,70,Male,Liver,primary hepatic cholangiocarcinoma.,The tumour extends upto the capsule of the liver but not through it. The surgical resection margin is uninvolved.
+5,6,09D16005,B1,70,Male,Liver,primary hepatic cholangiocarcinoma.,The tumour extends upto the capsule of the liver but not through it. The surgical resection margin is uninvolved.
+6,7,10D20720,B8,73,Female,Liver,intrahepatic cholangiocarcinoma (multifocal tumour deposits. Some of these small nodules show tumour cells with intracytoplasmic mucin secretion),"pT3, G2, V1, Pne1, R0, Mx"
+7,8,10D20720,B8,73,Female,Liver,intrahepatic cholangiocarcinoma (multifocal tumour deposits. Some of these small nodules show tumour cells with intracytoplasmic mucin secretion),"pT3, G2, V1, Pne1, R0, Mx"
+8,9,11D38638,E4,64,Male,Liver,Intrahepatic cholangiocarcinoma,"TNM 7, pT3, N1, Mx, G1,V1, Pn1, R1"
+9,10,11D38638,E4,64,Male,Liver,Intrahepatic cholangiocarcinoma,"TNM 7, pT3, N1, Mx, G1,V1, Pn1, R1"
+10,11,11D38955,C4,64,Female,Liver,Intrahepatic cholangiocarcinoma,"according to TNM5, pT2, N0, Mx, R0,according to TNM7, pT4, N0, Mx. (due to periductal spread)"
+11,12,11D38955,C4,64,Female,Liver,Intrahepatic cholangiocarcinoma,"according to TNM5, pT2, N0, Mx, R0,according to TNM7, pT4, N0, Mx. (due to periductal spread)"
+12,13,12D31311,B3,49,Male,Liver,cholangiocarcinoma ,"pT2b, G2, Nx, Mx, R1/R2 "
+13,14,12D31311,B3,49,Male,Liver,cholangiocarcinoma ,"pT2b, G2, Nx, Mx, R1/R2 "
+14,15,12D32015,A1,50,Female,Liver,Intrahepatic cholangiocarcinoma,"Vascular invasion  is present and tumour extends to diathermy margin, R1"
+15,16,12D32015,A1,50,Female,Liver,Intrahepatic cholangiocarcinoma,"Vascular invasion  is present and tumour extends to diathermy margin, R1"
+16,17,13D21227,A2,60,Female,Liver,Mass forming intrahepatic cholangiocarcinoma,"pT1, pNx"
+17,18,13D21227,A2,60,Female,Liver,Mass forming intrahepatic cholangiocarcinoma,"pT1, pNx"
+18,19,13D31997,C9BB1,58,Male,Liver,Mass forming intrahepatic cholangiocarcinoma,"pT2b, pN0, MX, G2, V1, Pne1, R0"
+19,20,13D31997,C9BB1,58,Male,Liver,Mass forming intrahepatic cholangiocarcinoma,"pT2b, pN0, MX, G2, V1, Pne1, R0"
+20,21,13D44885,A5BB1,53,Female,Liver,Intrahepatic cholangiocarcinoma,"According to TNM 6: pT3 N1 Mx V1 R1, According to TNM 7 the staging would be: pT2b N1 Mx V1 R1"
+21,22,13D44885,A5BB1,53,Female,Liver,Intrahepatic cholangiocarcinoma,"According to TNM 6: pT3 N1 Mx V1 R1, According to TNM 7 the staging would be: pT2b N1 Mx V1 R1"
+22,23,13D54996,D5BB1,68,Male,Liver,Intrahepatic cholangiocarcinoma,pT2a  Nx  Mx  V1  R0
+23,24,13D54996,D5BB1,68,Male,Liver,Intrahepatic cholangiocarcinoma,pT2a  Nx  Mx  V1  R0
+24,25,14D13698,B2,58,Female,Liver,Mass-forming Intrahepatic cholangiocarcinoma,T1 Nx Mx V0 G2 R1
+25,26,14D13698,B2,58,Female,Liver,Mass-forming Intrahepatic cholangiocarcinoma,T1 Nx Mx V0 G2 R1
+26,27,14D27072,A4,61,Male,Liver,Cystadenocarcinoma (variant of intrahepatic cholangiocarcinoma),"pT2a, N1, G2, V1, pNe1, Mx, R0 (main tumour), R1 (for Specimen C - lymph node)"
+27,28,14D27072,A4,61,Male,Liver,Cystadenocarcinoma (variant of intrahepatic cholangiocarcinoma),"pT2a, N1, G2, V1, pNe1, Mx, R0 (main tumour), R1 (for Specimen C - lymph node)"
+28,29,14D29590,A1BB1,78,Female,Liver,Intrahepatic cholangiocarcinoma,"pT2a, Nx, Mx"
+29,30,14D29590,A1BB1,78,Female,Liver,Intrahepatic cholangiocarcinoma,"pT2a, Nx, Mx"
+30,31,14D35909,C3,75,Female,Liver,Intrahepatic cholangiocarcinoma (intraductal),"pT1, Nx, Mx, V0, G2, R0 "
+31,32,14D35909,C3,75,Female,Liver,Intrahepatic cholangiocarcinoma (intraductal),"pT1, Nx, Mx, V0, G2, R0 "
+32,33,15D24491,D1,75,Male,Liver,Intrahepatic cholangiocarcinoma,Not stated
+33,34,15D24491,D1,75,Male,Liver,Intrahepatic cholangiocarcinoma,Not stated
+34,35,15D34911,A8,71,Female,Liver,Intrahepatic cholangiocarcinoma (showing heterogeneous glandular and nested architecture),pT3  N0   Mx
+35,36,15D34911,A8,71,Female,Liver,Intrahepatic cholangiocarcinoma (showing heterogeneous glandular and nested architecture),pT3  N0   Mx
+36,37,15D45868,A2BB2,54,Female,Liver,intrahepatic Adenocarcinoma (pancreatobiliary,Not stated
+37,38,15D45868,A2BB2,54,Female,Liver,intrahepatic Adenocarcinoma (pancreatobiliary,Not stated
+38,39,15D54274,A7,55,Female,Liver,Intrahepatic cholangiocarcinoma,"pT 2a, N0, Mx, V1, G1, R0"
+39,40,15D54274,A7,55,Female,Liver,Intrahepatic cholangiocarcinoma,"pT 2a, N0, Mx, V1, G1, R0"
+40,41,183752,,70,F,Liver,Adenocarcinoma,T2bN0M0
+41,42,183752,,70,F,Liver,Adenocarcinoma,T2bN0M0
+42,43,183753,,62,M,Liver,Adenocarcinoma,T2aN0M0
+43,44,183753,,62,M,Liver,Adenocarcinoma,T2aN0M0
+44,45,183754,,61,M,Liver,Adenocarcinoma,T1N0M0
+45,46,183754,,61,M,Liver,Adenocarcinoma,T1N0M0
+46,47,183755,,63,F,Liver,adenocarcinoma,T1N0M0
+47,48,183755,,63,F,Liver,adenocarcinoma,T1N0M0
+48,49,183757,,62,M,Liver,Adenocarcinoma,T3N0M0
+49,50,183757,,62,M,Liver,Adenocarcinoma,T3N0M0
+50,51,183759,,52,M,Liver,Adenocarcinoma,T2aN1M1
+51,52,183759,,52,M,Liver,Adenocarcinoma,T2aN1M1
+52,53,183802,,43,M,Liver,Adenocarcinoma,T2bN0M0
+53,54,183802,,43,M,Liver,Adenocarcinoma,T2bN0M0
+54,55,183803,,50,M,Liver,Adenocarcinoma,T1N1M0
+55,56,183803,,50,M,Liver,Adenocarcinoma,T1N1M0
+56,57,183804,,67,M,Liver,Adenocarcinoma,T2aN0M0
+57,58,183804,,67,M,Liver,Adenocarcinoma,T2aN0M0
+58,59,183805,,80,F,Liver,Adenocarcinoma,T3N0M1
+59,60,183805,,80,F,Liver,Adenocarcinoma,T3N0M1
+60,61,183806,,58,F,Liver,Adenocarcinoma,T1N0M0
+61,62,183806,,58,F,Liver,Adenocarcinoma,T1N0M0
+62,63,183807,,62,M,Liver,Adenocarcinoma,T2bN0M0
+63,64,183807,,62,M,Liver,Adenocarcinoma,T2bN0M0
+64,65,183811,,59,M,Liver,Adenocarcinoma,T2aN0M0
+65,66,183811,,59,M,Liver,Adenocarcinoma,T2aN0M0
+66,67,183812,,68,M,Liver,papillary carcinoma,TIsN0M0
+67,68,183812,,68,M,Liver,papillary carcinoma,TIsN0M0
+68,69,183813,,70,M,Liver,Adenocarcinoma,T2bN0M0
+69,70,183813,,70,M,Liver,Adenocarcinoma,T2bN0M0
+70,71,183814,,69,F,Liver,adenocarcinoma,T3N1M0
+71,72,183814,,69,F,Liver,adenocarcinoma,T3N1M0
+72,73,183815,,50,M,Liver,Adenocarcinoma,T1N0M0
+73,74,183815,,50,M,Liver,Adenocarcinoma,T1N0M0
+74,75,183816,,72,M,Liver,Adenocarcinoma,T3N0M0
+75,76,183816,,72,M,Liver,Adenocarcinoma,T3N0M0
+76,77,183819,,53,M,Liver,Adenocarcinoma,T1N0M0
+77,78,183819,,53,M,Liver,Adenocarcinoma,T1N0M0
+78,79,183821,,40,M,Liver,Adenocarcinoma,T2aN1M1
+79,80,183821,,40,M,Liver,Adenocarcinoma,T2aN1M1
+80,81,183824,,73,M,Liver,IPMT_microinv,T2aN0M0
+81,82,183824,,73,M,Liver,IPMT_microinv,T2aN0M0
+82,83,183826,,67,M,Liver,Adenocarcinoma,T1N0M0
+83,84,183826,,67,M,Liver,Adenocarcinoma,T1N0M0
+84,85,183827,,70,M,Liver,Adenocarcinoma,T3N0M0
+85,86,183827,,70,M,Liver,Adenocarcinoma,T3N0M0
+86,87,183830,,57,M,Liver,Adenocarcinoma,T3N1M0
+87,88,183830,,57,M,Liver,Adenocarcinoma,T3N1M0
+88,89,183832,,58,M,Liver,Adenocarcinoma,T1N0M0
+89,90,183832,,58,M,Liver,Adenocarcinoma,T1N0M0

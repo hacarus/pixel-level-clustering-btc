@@ -1,0 +1,11 @@
+# @package models
+train: false
+
+data:
+  INPUT_DIR: data/submission/cropped/mouse/liver/15/slide
+  MODEL_DIR: data/submission/clustering/mouse
+  OUTPUT_DIR: data/submission/clustering/mouse
+
+clustering:
+  N_SAMPLE: 1000000
+  N_CLUSTERS: 30

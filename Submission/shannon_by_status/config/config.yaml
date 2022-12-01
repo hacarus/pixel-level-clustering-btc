@@ -1,0 +1,18 @@
+# https://github.com/knazeri/edge-connect/blob/master/src/config.py
+# hydra's settings ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+defaults:
+  - models: mouse
+  - _self_
+  # - override hydra/hydra_logging: disabled
+  - override hydra/job_logging: custom
+
+hydra:
+  output_subdir: null
+  run:
+    dir: .
+  sweep:
+    dir: .
+    subdir: .
+
+cluster:
+  ignore: [3, 6, 7, 8, 12, 16, 21, 26, 27, 29, 30]

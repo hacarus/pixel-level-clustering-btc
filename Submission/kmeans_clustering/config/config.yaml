@@ -1,0 +1,41 @@
+# https://github.com/knazeri/edge-connect/blob/master/src/config.py
+# hydra's settings ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+defaults:
+  - models: train
+  - _self_
+  # - override hydra/hydra_logging: disabled
+  - override hydra/job_logging: custom
+
+hydra:
+  output_subdir: null
+  run:
+    dir: .
+  sweep:
+    dir: .
+    subdir: .
+
+common:
+  SCALE: 0.5
+  SEED: 20220202
+
+mbf:
+  intensity: true
+  edges: false
+  texture: true
+  sigma_min: 6
+  sigma_max: 20
+  channel_axis: 2
+
+mbf_experiments:
+  sigma_minmax_pairs: [
+      [3, 7],
+      [3, 10],
+      [3, 15],
+      [4, 7],
+      [4, 10],
+      [4, 15],
+      [5, 7],
+      [5, 10],
+      [5, 15],
+      [6, 20],
+  ]

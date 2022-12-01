@@ -1,0 +1,6 @@
+.git
+.cache
+.mypy_cache
+.venv
+.vscode
+.ipynb_checkpoints

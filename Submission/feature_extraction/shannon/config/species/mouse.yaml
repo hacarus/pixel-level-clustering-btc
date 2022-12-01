@@ -1,0 +1,4 @@
+# @package species
+data:
+  INPUT_DIR: data/submission/cropped/mouse/liver/17/slide
+  OUTPUT_DIR: data/submission/feature/mouse/shannon

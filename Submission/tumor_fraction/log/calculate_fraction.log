@@ -1,0 +1,11 @@
+2022-09-02 08:40:06,822 - INFO - calculate_fraction.py - main - calculate pixel-counts
+2022-09-02 08:40:06,822 - INFO - calculate_fraction.py - main - drop unknown label
+2022-09-02 08:40:50,337 - INFO - calculate_fraction.py - main - calculate pixel-counts
+2022-09-02 08:40:54,784 - INFO - calculate_fraction.py - main - drop unknown label
+2022-09-02 08:41:59,707 - INFO - calculate_fraction.py - main - calculate pixel-counts
+2022-09-02 08:42:24,591 - INFO - calculate_fraction.py - main - calculate pixel-counts
+2022-09-02 08:42:55,166 - INFO - calculate_fraction.py - main - calculate pixel-counts
+2022-09-02 08:43:02,934 - INFO - calculate_fraction.py - main - drop unknown label
+2022-09-02 08:51:42,458 - INFO - calculate_fraction.py - main - calculate pixel-counts
+2022-09-02 08:52:15,112 - INFO - calculate_fraction.py - main - calculate pixel-counts
+2022-09-02 08:52:29,174 - INFO - calculate_fraction.py - main - drop noise clusters

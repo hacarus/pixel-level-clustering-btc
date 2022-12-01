@@ -1,0 +1,10 @@
+2022-08-28 07:35:44,145 - INFO - classify_stage.py - main - calculate pixel-counts
+2022-08-28 07:35:44,809 - INFO - classify_stage.py - main - drop unknown label
+2022-08-28 07:35:44,832 - INFO - classify_stage.py - main - calculate fraction
+2022-08-28 07:35:44,835 - INFO - classify_stage.py - main - save: /work/data/submission/cluster_fraction/human/3_7/fraction.csv
+2022-08-28 07:35:44,837 - INFO - classify_stage.py - main - plot: /work/data/submission/cluster_fraction/human/3_7/fraction.png
+2022-08-28 08:06:27,208 - INFO - classify_stage.py - main - calculate pixel-counts
+2022-08-28 08:06:27,766 - INFO - classify_stage.py - main - drop unknown label
+2022-08-28 08:06:27,789 - INFO - classify_stage.py - main - calculate fraction
+2022-08-28 08:06:27,792 - INFO - classify_stage.py - main - save: /work/data/submission/cluster_fraction/human/3_7/fraction.csv
+2022-08-28 08:06:27,794 - INFO - classify_stage.py - main - plot: /work/data/submission/cluster_fraction/human/3_7/fraction.png

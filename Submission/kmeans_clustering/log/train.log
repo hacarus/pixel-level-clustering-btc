@@ -1,0 +1,600 @@
+2022-08-27 04:54:54,142 - INFO - train.py - main - (sigma_min, sigma_max)=3, 7
+2022-08-27 04:54:54,146 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 04:54:54,149 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 04:54:59,955 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:55:00,929 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:55:09,359 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 04:55:10,912 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:55:11,133 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:55:13,106 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 04:55:15,096 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:55:15,355 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:55:17,677 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 04:55:21,257 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:55:21,798 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:55:26,922 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 04:55:31,295 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:55:32,008 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:55:39,184 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 04:55:41,142 - INFO - train.py - main - fit.
+2022-08-27 04:55:50,852 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/3_7/pipe_kmeans.pkl.
+2022-08-27 04:55:50,858 - INFO - train.py - main - (sigma_min, sigma_max)=3, 10
+2022-08-27 04:55:50,860 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 04:55:50,860 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 04:55:55,471 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:55:56,293 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:56:05,687 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 04:56:07,244 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:56:07,463 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:56:09,879 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 04:56:11,471 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:56:11,717 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:56:14,588 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 04:56:17,745 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:56:18,297 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:56:24,496 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 04:56:28,770 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:56:29,489 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:56:37,922 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 04:56:39,956 - INFO - train.py - main - fit.
+2022-08-27 04:56:53,388 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/3_10/pipe_kmeans.pkl.
+2022-08-27 04:56:53,398 - INFO - train.py - main - (sigma_min, sigma_max)=3, 15
+2022-08-27 04:56:53,400 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 04:56:53,401 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 04:56:57,960 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:56:58,776 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:57:12,747 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 04:57:13,996 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:57:14,217 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:57:17,645 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 04:57:19,115 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:57:19,366 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:57:23,369 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 04:57:26,383 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:57:26,921 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:57:36,160 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 04:57:40,581 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:57:41,288 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:57:53,341 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 04:57:55,246 - INFO - train.py - main - fit.
+2022-08-27 04:58:05,276 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/3_15/pipe_kmeans.pkl.
+2022-08-27 04:58:05,296 - INFO - train.py - main - (sigma_min, sigma_max)=4, 7
+2022-08-27 04:58:05,297 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 04:58:05,298 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 04:58:10,191 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:58:11,018 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:58:16,345 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 04:58:17,600 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:58:17,824 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:58:19,143 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 04:58:20,819 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:58:21,065 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:58:22,576 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 04:58:25,831 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:58:26,364 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:58:29,860 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 04:58:33,766 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:58:34,472 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:58:39,193 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 04:58:41,088 - INFO - train.py - main - fit.
+2022-08-27 04:58:47,778 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/4_7/pipe_kmeans.pkl.
+2022-08-27 04:58:47,782 - INFO - train.py - main - (sigma_min, sigma_max)=4, 10
+2022-08-27 04:58:47,783 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 04:58:47,784 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 04:58:52,334 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:58:53,171 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:59:02,674 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 04:59:03,928 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:59:04,146 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:59:06,583 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 04:59:08,109 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:59:08,362 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:59:11,139 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 04:59:14,424 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:59:14,954 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:59:21,275 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 04:59:25,194 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:59:25,898 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 04:59:34,316 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 04:59:36,459 - INFO - train.py - main - fit.
+2022-08-27 04:59:44,522 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/4_10/pipe_kmeans.pkl.
+2022-08-27 04:59:44,541 - INFO - train.py - main - (sigma_min, sigma_max)=4, 15
+2022-08-27 04:59:44,543 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 04:59:44,543 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 04:59:49,377 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 04:59:50,203 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:00:02,386 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:00:03,676 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:00:03,896 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:00:06,947 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:00:08,546 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:00:08,798 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:00:12,269 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:00:15,183 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:00:15,713 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:00:23,359 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:00:27,334 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:00:28,025 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:00:38,315 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:00:40,215 - INFO - train.py - main - fit.
+2022-08-27 05:00:53,265 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/4_15/pipe_kmeans.pkl.
+2022-08-27 05:00:53,285 - INFO - train.py - main - (sigma_min, sigma_max)=5, 7
+2022-08-27 05:00:53,287 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:00:53,288 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:00:58,136 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:00:58,960 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:01:04,523 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:01:05,727 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:01:05,946 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:01:07,362 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:01:09,199 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:01:09,449 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:01:11,051 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:01:13,992 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:01:14,533 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:01:18,262 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:01:22,749 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:01:23,461 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:01:28,393 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:01:30,345 - INFO - train.py - main - fit.
+2022-08-27 05:01:41,153 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/5_7/pipe_kmeans.pkl.
+2022-08-27 05:01:41,171 - INFO - train.py - main - (sigma_min, sigma_max)=5, 10
+2022-08-27 05:01:41,173 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:01:41,174 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:01:46,218 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:01:47,037 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:01:56,694 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:01:58,175 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:01:58,393 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:02:00,772 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:02:02,140 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:02:02,387 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:02:05,279 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:02:08,918 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:02:09,452 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:02:15,558 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:02:19,371 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:02:20,070 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:02:28,456 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:02:30,508 - INFO - train.py - main - fit.
+2022-08-27 05:02:37,061 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/5_10/pipe_kmeans.pkl.
+2022-08-27 05:02:37,066 - INFO - train.py - main - (sigma_min, sigma_max)=5, 15
+2022-08-27 05:02:37,068 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:02:37,069 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:02:41,704 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:02:42,521 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:02:53,887 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:02:55,161 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:02:55,379 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:02:58,379 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:02:59,752 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:02:59,999 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:03:03,368 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:03:06,551 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:03:07,084 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:03:14,507 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:03:18,469 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:03:19,174 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:03:29,329 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:03:31,383 - INFO - train.py - main - fit.
+2022-08-27 05:03:39,020 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/5_15/pipe_kmeans.pkl.
+2022-08-27 05:03:39,030 - INFO - train.py - main - (sigma_min, sigma_max)=6, 20
+2022-08-27 05:03:39,032 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:03:39,033 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:03:43,869 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:03:44,683 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:03:58,008 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:03:59,374 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:03:59,592 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:04:02,938 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:04:04,664 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:04:04,918 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:04:08,860 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:04:11,913 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:04:12,441 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:04:21,495 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:04:25,321 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:04:26,031 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:04:37,921 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:04:39,885 - INFO - train.py - main - fit.
+2022-08-27 05:04:51,083 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/6_20/pipe_kmeans.pkl.
+2022-08-27 05:22:34,296 - INFO - train.py - main - (sigma_min, sigma_max)=3, 7
+2022-08-27 05:22:34,299 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:22:34,302 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:22:38,912 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:22:39,753 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:22:47,718 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:22:49,008 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:22:49,227 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:22:51,204 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:22:52,581 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:22:52,828 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:22:55,128 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:22:58,099 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:22:58,629 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:23:04,026 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:23:08,384 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:23:09,084 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:23:16,264 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:23:19,408 - INFO - train.py - main - fit.
+2022-08-27 05:23:29,634 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/3_7/pipe_kmeans.pkl.
+2022-08-27 05:23:29,639 - INFO - train.py - main - (sigma_min, sigma_max)=3, 10
+2022-08-27 05:23:29,640 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:23:29,641 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:23:34,516 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:23:35,329 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:23:45,074 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:23:46,306 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:23:46,526 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:23:48,984 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:23:50,363 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:23:50,613 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:23:53,334 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:23:56,343 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:23:56,886 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:24:03,127 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:24:07,213 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:24:07,911 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:24:16,251 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:24:19,281 - INFO - train.py - main - fit.
+2022-08-27 05:24:27,459 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/3_10/pipe_kmeans.pkl.
+2022-08-27 05:24:27,466 - INFO - train.py - main - (sigma_min, sigma_max)=3, 15
+2022-08-27 05:24:27,467 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:24:27,468 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:24:31,949 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:24:32,778 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:24:46,772 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:24:48,011 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:24:48,228 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:24:51,597 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:24:53,616 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:24:53,868 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:24:57,826 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:25:00,777 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:25:01,309 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:25:10,060 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:25:14,028 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:25:14,724 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:25:26,815 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:25:29,969 - INFO - train.py - main - fit.
+2022-08-27 05:25:41,227 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/3_15/pipe_kmeans.pkl.
+2022-08-27 05:25:41,231 - INFO - train.py - main - (sigma_min, sigma_max)=4, 7
+2022-08-27 05:25:41,233 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:25:41,233 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:25:45,838 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:25:46,657 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:25:51,974 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:25:53,186 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:25:53,403 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:25:54,601 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:25:56,079 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:25:56,331 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:25:57,821 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:26:00,825 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:26:01,367 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:26:04,860 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:26:08,684 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:26:09,386 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:26:14,211 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:26:17,300 - INFO - train.py - main - fit.
+2022-08-27 05:26:23,373 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/4_7/pipe_kmeans.pkl.
+2022-08-27 05:26:23,381 - INFO - train.py - main - (sigma_min, sigma_max)=4, 10
+2022-08-27 05:26:23,383 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:26:23,384 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:26:28,046 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:26:28,886 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:26:38,326 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:26:39,974 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:26:40,199 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:26:42,683 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:26:44,125 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:26:44,377 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:26:47,119 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:26:50,233 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:26:50,763 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:26:56,908 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:27:01,463 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:27:02,162 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:27:10,860 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:27:13,964 - INFO - train.py - main - fit.
+2022-08-27 05:27:22,786 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/4_10/pipe_kmeans.pkl.
+2022-08-27 05:27:22,790 - INFO - train.py - main - (sigma_min, sigma_max)=4, 15
+2022-08-27 05:27:22,791 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:27:22,792 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:27:27,409 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:27:28,241 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:27:39,931 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:27:41,158 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:27:41,375 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:27:44,219 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:27:45,795 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:27:46,044 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:27:49,417 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:27:52,273 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:27:52,802 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:28:00,294 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:28:04,485 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:28:05,178 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:28:15,360 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:28:18,459 - INFO - train.py - main - fit.
+2022-08-27 05:28:27,134 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/4_15/pipe_kmeans.pkl.
+2022-08-27 05:28:27,143 - INFO - train.py - main - (sigma_min, sigma_max)=5, 7
+2022-08-27 05:28:27,145 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:28:27,145 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:28:31,799 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:28:32,618 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:28:38,105 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:28:39,359 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:28:39,577 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:28:40,858 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:28:42,443 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:28:42,703 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:28:44,227 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:28:47,180 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:28:47,711 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:28:51,239 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:28:55,128 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:28:55,850 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:29:00,792 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:29:03,900 - INFO - train.py - main - fit.
+2022-08-27 05:29:13,695 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/5_7/pipe_kmeans.pkl.
+2022-08-27 05:29:13,701 - INFO - train.py - main - (sigma_min, sigma_max)=5, 10
+2022-08-27 05:29:13,702 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:29:13,703 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:29:18,489 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:29:19,307 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:29:28,937 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:29:30,151 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:29:30,370 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:29:32,668 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:29:34,143 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:29:34,395 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:29:37,212 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:29:40,101 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:29:40,629 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:29:46,894 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:29:50,817 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:29:51,519 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:30:00,260 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:30:03,346 - INFO - train.py - main - fit.
+2022-08-27 05:30:16,694 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/5_10/pipe_kmeans.pkl.
+2022-08-27 05:30:16,697 - INFO - train.py - main - (sigma_min, sigma_max)=5, 15
+2022-08-27 05:30:16,699 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:30:16,699 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:30:21,267 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:30:22,083 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:30:33,372 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:30:34,876 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:30:35,094 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:30:38,101 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:30:39,843 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:30:40,096 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:30:43,474 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:30:46,354 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:30:46,883 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:30:54,318 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:30:58,184 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:30:58,892 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:31:09,031 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:31:12,077 - INFO - train.py - main - fit.
+2022-08-27 05:31:21,371 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/5_15/pipe_kmeans.pkl.
+2022-08-27 05:31:21,376 - INFO - train.py - main - (sigma_min, sigma_max)=6, 20
+2022-08-27 05:31:21,377 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 05:31:21,378 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 05:31:26,255 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:31:27,084 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:31:40,698 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 05:31:42,045 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:31:42,263 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:31:45,917 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 05:31:47,668 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:31:47,916 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:31:52,063 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 05:31:54,965 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:31:55,495 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:32:04,124 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 05:32:08,018 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 05:32:08,720 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 05:32:20,577 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 05:32:23,644 - INFO - train.py - main - fit.
+2022-08-27 05:32:31,666 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/6_20/pipe_kmeans.pkl.
+2022-08-27 18:06:06,235 - INFO - train.py - main - (sigma_min, sigma_max)=3, 7
+2022-08-27 18:06:06,238 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 18:06:06,241 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 18:06:15,301 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:06:16,288 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:06:24,871 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 18:06:27,244 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:06:27,469 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:06:29,510 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 18:06:32,034 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:06:32,281 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:06:34,724 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 18:06:39,955 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:06:40,492 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:06:45,855 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 18:06:52,771 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:06:53,467 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:07:01,020 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 18:07:03,072 - INFO - train.py - main - fit.
+2022-08-27 18:07:14,187 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/3_7/pipe_kmeans.pkl.
+2022-08-27 18:07:14,195 - INFO - train.py - main - (sigma_min, sigma_max)=3, 10
+2022-08-27 18:07:14,196 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 18:07:14,197 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 18:07:21,420 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:07:22,258 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:07:32,549 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 18:07:33,939 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:07:34,157 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:07:36,646 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 18:07:38,300 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:07:38,558 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:07:41,358 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 18:07:45,239 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:07:45,824 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:07:52,425 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 18:07:57,965 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:07:58,672 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:08:07,294 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 18:08:09,486 - INFO - train.py - main - fit.
+2022-08-27 18:08:24,141 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/3_10/pipe_kmeans.pkl.
+2022-08-27 18:08:24,147 - INFO - train.py - main - (sigma_min, sigma_max)=3, 15
+2022-08-27 18:08:24,149 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 18:08:24,149 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 18:08:29,417 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:08:30,244 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:08:44,658 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 18:08:46,064 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:08:46,282 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:08:49,934 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 18:08:51,597 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:08:51,849 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:08:55,914 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 18:08:59,384 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:08:59,910 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:09:09,623 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 18:09:14,672 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:09:15,377 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:09:28,914 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 18:09:31,316 - INFO - train.py - main - fit.
+2022-08-27 18:09:41,223 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/3_15/pipe_kmeans.pkl.
+2022-08-27 18:09:41,229 - INFO - train.py - main - (sigma_min, sigma_max)=4, 7
+2022-08-27 18:09:41,231 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 18:09:41,231 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 18:09:47,000 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:09:47,857 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:09:53,381 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 18:09:54,706 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:09:54,923 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:09:56,145 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 18:09:58,198 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:09:58,450 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:10:00,003 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 18:10:03,141 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:10:03,674 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:10:07,046 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 18:10:15,116 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:10:15,826 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:10:20,903 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 18:10:23,153 - INFO - train.py - main - fit.
+2022-08-27 18:10:32,073 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/4_7/pipe_kmeans.pkl.
+2022-08-27 18:10:32,081 - INFO - train.py - main - (sigma_min, sigma_max)=4, 10
+2022-08-27 18:10:32,083 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 18:10:32,084 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 18:10:40,464 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:10:41,291 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:10:52,256 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 18:10:53,709 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:10:53,929 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:10:56,425 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 18:10:58,219 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:10:58,483 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:11:01,405 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 18:11:06,826 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:11:07,372 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:11:13,821 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 18:11:19,384 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:11:20,080 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:11:28,910 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 18:11:30,969 - INFO - train.py - main - fit.
+2022-08-27 18:11:39,596 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/4_10/pipe_kmeans.pkl.
+2022-08-27 18:11:39,603 - INFO - train.py - main - (sigma_min, sigma_max)=4, 15
+2022-08-27 18:11:39,605 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 18:11:39,606 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 18:11:47,055 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:11:47,947 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:11:59,980 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 18:12:01,787 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:12:02,006 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:12:05,100 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 18:12:06,685 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:12:06,936 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:12:10,427 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 18:12:14,425 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:12:15,033 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:12:23,110 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 18:12:28,904 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:12:29,607 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:12:40,594 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 18:12:42,593 - INFO - train.py - main - fit.
+2022-08-27 18:12:58,641 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/4_15/pipe_kmeans.pkl.
+2022-08-27 18:12:58,649 - INFO - train.py - main - (sigma_min, sigma_max)=5, 7
+2022-08-27 18:12:58,651 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 18:12:58,651 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 18:13:08,437 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:13:09,277 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:13:15,100 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 18:13:16,518 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:13:16,740 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:13:18,111 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 18:13:19,969 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:13:20,231 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:13:21,973 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 18:13:27,053 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:13:27,586 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:13:31,353 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 18:13:39,545 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:13:40,268 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:13:45,626 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 18:13:47,573 - INFO - train.py - main - fit.
+2022-08-27 18:13:58,814 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/5_7/pipe_kmeans.pkl.
+2022-08-27 18:13:58,820 - INFO - train.py - main - (sigma_min, sigma_max)=5, 10
+2022-08-27 18:13:58,823 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 18:13:58,823 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 18:14:05,364 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:14:06,195 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:14:16,742 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 18:14:18,160 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:14:18,390 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:14:20,931 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 18:14:22,718 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:14:22,967 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:14:25,903 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 18:14:29,036 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:14:29,575 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:14:36,149 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 18:14:42,791 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:14:43,531 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:14:52,581 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 18:14:54,622 - INFO - train.py - main - fit.
+2022-08-27 18:15:02,872 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/5_10/pipe_kmeans.pkl.
+2022-08-27 18:15:02,879 - INFO - train.py - main - (sigma_min, sigma_max)=5, 15
+2022-08-27 18:15:02,880 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 18:15:02,881 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 18:15:11,036 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:15:11,934 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:15:26,088 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 18:15:27,700 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:15:27,918 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:15:31,216 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 18:15:32,920 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:15:33,168 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:15:36,689 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 18:15:41,574 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:15:42,116 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:15:50,828 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 18:15:56,708 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:15:57,396 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:16:09,574 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 18:16:11,885 - INFO - train.py - main - fit.
+2022-08-27 18:16:21,388 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/5_15/pipe_kmeans.pkl.
+2022-08-27 18:16:21,396 - INFO - train.py - main - (sigma_min, sigma_max)=6, 20
+2022-08-27 18:16:21,398 - INFO - train.py - extract_mbfs - Extract MBF from all the images.
+2022-08-27 18:16:21,399 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_0.npy
+2022-08-27 18:16:26,432 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:16:27,319 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:16:41,472 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_1.npy
+2022-08-27 18:16:42,981 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:16:43,211 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:16:47,034 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_2.npy
+2022-08-27 18:16:49,594 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:16:49,858 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:16:54,196 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_3.npy
+2022-08-27 18:16:58,406 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:16:58,984 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:17:09,040 - DEBUG - train.py - extract_mbfs - load /work/data/submission/cropped/mouse/liver/15/slide/cropped_4.npy
+2022-08-27 18:17:16,822 - DEBUG - train.py - extract_mbfs - rescale
+2022-08-27 18:17:17,625 - DEBUG - train.py - extract_mbfs - extract MBF.
+2022-08-27 18:17:30,553 - INFO - train.py - main - downsample pixels into 1000000.
+2022-08-27 18:17:32,761 - INFO - train.py - main - fit.
+2022-08-27 18:17:44,778 - INFO - train.py - main - save model to /work/data/submission/clustering/mouse/6_20/pipe_kmeans.pkl.

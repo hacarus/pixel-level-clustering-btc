@@ -1,0 +1,5 @@
+# @package models
+data:
+  INPUT_DIR_CLUSTER: data/submission/clustering/mouse/3_7
+  INPUT_DIR_SHANNON: data/submission/feature/mouse/shannon/kernel_20
+  OUTPUT_DIR: data/submission/shannon_by_status/mouse/3_7
